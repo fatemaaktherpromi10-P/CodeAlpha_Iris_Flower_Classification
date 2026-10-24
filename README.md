@@ -42,7 +42,7 @@ Random Forest Classifier
 Model evaluation results will be added after running the notebook.
 
 ## How to Run
-1. Open the Jupyter Notebook file in this repository.
+1. Open the Kaggal Notebook file in this repository.
 2. Install the required Python libraries if needed.
 3. Run the cells from top to bottom.
 
