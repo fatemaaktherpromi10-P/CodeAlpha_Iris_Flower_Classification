@@ -24,7 +24,7 @@ The dataset is loaded using Scikit-learn.
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Kaggle Notebook
+- Jupyter Notebook/Kaggle Notebook
 
 ## Project Workflow
 1. Load and inspect the dataset.
